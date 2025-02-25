@@ -25,11 +25,11 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/fz-s/statistics-using-python.git
+git remote add origin https://github.com/<user-name>/<repository-name>.git
 git push -u origin main
 
 ## 3. to push an existing repository from the command line
-git remote add origin https://github.com/fz-s/statistics-using-python.git
+git remote add origin https://github.com/<user-name>/<repository-name>.git
 git branch -M main
 git push -u origin main
 
