@@ -20,7 +20,6 @@ python -m ipykernel install --user --name=myenv
 "git.ssh.path": "/usr/bin/ssh"
 
 ## 2.  to create a new repository on the command line
-echo "# statistics-using-python" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
